@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "env-cmd -f .env node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@usewaypoint/email-builder": "^0.0.8",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "express-basic-auth": "^1.2.1"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0"
+  }
+}

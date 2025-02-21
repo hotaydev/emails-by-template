@@ -1,0 +1,209 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#F5F5F5",
+      "canvasColor": "#F5F5F5",
+      "textColor": "#262626",
+      "fontFamily": "GEOMETRIC_SANS",
+      "childrenIds": [
+        "block-1740163434822",
+        "block-1740163482547",
+        "block-1740163507986"
+      ]
+    }
+  },
+  "block-1740163434822": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 150,
+        "url": "https://www.arcanapixel.com/assets/static/arcana-logo-black.png",
+        "alt": "Arcana Pixel Logo",
+        "linkHref": "https://www.arcanapixel.com/",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1740163482547": {
+    "type": "Container",
+    "data": {
+      "style": {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 20,
+        "padding": {
+          "top": 16,
+          "bottom": 20,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "childrenIds": [
+          "block-1740163641319",
+          "block-1740163650758",
+          "block-1740163711947"
+        ]
+      }
+    }
+  },
+  "block-1740163507986": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "color": null,
+        "fontSize": 14,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 20,
+          "bottom": 20,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": false,
+        "text": "© 2025 Arcana Pixel, com muito ❤️, código livre e 🐈"
+      }
+    }
+  },
+  "block-1740163641319": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Boas vindas ao Arcana Pixel!",
+        "level": "h1"
+      },
+      "style": {
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 12,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1740163650758": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 8,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Saudações, viajante!\n\nObrigado por se pré-registrar no [Arcana Pixel](https://www.arcanapixel.com/)! Estamos empolgados por ter você conosco nessa jornada 🎉\n\nPor este e-mail, manteremos você informado sobre o desenvolvimento da nossa plataforma, além de compartilhar novidades, informações importantes e promoções exclusivas.\n\nSe você não realizou o pré-registro ou acredita que este e-mail foi enviado por engano, pedimos desculpas pelo transtorno. Você pode [clicar aqui](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) para remover seu e-mail da nossa lista de contatos."
+      }
+    }
+  },
+  "block-1740163711947": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 12,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "fixedWidths": [
+          null,
+          120,
+          null
+        ],
+        "columnsCount": 2,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1740163748626",
+              "block-1740163761763"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1740163720652"
+            ]
+          },
+          {
+            "childrenIds": []
+          }
+        ]
+      }
+    }
+  },
+  "block-1740163720652": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 40,
+        "url": "https://www.arcanapixel.com/assets/static/pixel-d20.png",
+        "alt": "Dado de vinte lados",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1740163748626": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "text": "Atenciosamente,"
+      }
+    }
+  },
+  "block-1740163761763": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "text": "Equipe do Arcana Pixel"
+      }
+    }
+  }
+}

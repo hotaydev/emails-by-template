@@ -1,0 +1,42 @@
+{
+  "name": "@usewaypoint/editor-sample",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@mui/icons-material": "^5",
+    "@mui/material": "^5",
+    "@usewaypoint/block-avatar": "^0",
+    "@usewaypoint/block-button": "^0",
+    "@usewaypoint/block-columns-container": "^0",
+    "@usewaypoint/block-container": "^0",
+    "@usewaypoint/block-divider": "^0",
+    "@usewaypoint/block-heading": "^0",
+    "@usewaypoint/block-html": "^0",
+    "@usewaypoint/block-image": "^0",
+    "@usewaypoint/block-spacer": "^0",
+    "@usewaypoint/block-text": "^0",
+    "@usewaypoint/document-core": "^0",
+    "@usewaypoint/email-builder": "^0",
+    "highlight.js": "^11",
+    "prettier": "^3.5.1",
+    "react": "^18",
+    "react-colorful": "^5",
+    "react-dom": "^18",
+    "zod": "^3",
+    "zustand": "^4"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vitejs/plugin-react-swc": "^3",
+    "typescript": "^5",
+    "vite": "^5"
+  }
+}
