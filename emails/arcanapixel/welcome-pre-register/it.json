@@ -73,7 +73,7 @@
       },
       "props": {
         "markdown": false,
-        "text": "© 2025 Arcana Pixel, com muito ❤️, código livre e 🐈"
+        "text": "© 2025 Arcana Pixel, con tanto ❤️, codice open-source e 🐈"
       }
     }
   },
@@ -81,7 +81,7 @@
     "type": "Heading",
     "data": {
       "props": {
-        "text": "Boas vindas ao Arcana Pixel!",
+        "text": "Benvenuto su Arcana Pixel!",
         "level": "h1"
       },
       "style": {
@@ -109,7 +109,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Saudações, viajante!\n\nObrigado por se pré-registrar no [Arcana Pixel](https://www.arcanapixel.com/)! Estamos empolgados por ter você conosco nessa jornada 🎉\n\nPor este e-mail, manteremos você informado sobre o desenvolvimento da nossa plataforma, além de compartilhar novidades, informações importantes e promoções exclusivas.\n\nSe você não realizou o pré-registro ou acredita que este e-mail foi enviado por engano, pedimos desculpas pelo transtorno. Você pode [clicar aqui](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) para remover seu e-mail da nossa lista de contatos."
+        "text": "Saluti, viaggiatore!\n\nGrazie per esserti pre-registrato su [Arcana Pixel](https://www.arcanapixel.com/)! Siamo entusiasti di averti con noi in questo viaggio 🎉\n\nAttraverso questa e-mail, ti terremo aggiornato sullo sviluppo della nostra piattaforma, oltre a condividere novità, informazioni importanti e promozioni esclusive.\n\nSe non ti sei pre-registrato o ritieni che questa e-mail sia stata inviata per errore, ci scusiamo per l'inconveniente. Puoi [cliccare qui](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) per rimuovere il tuo indirizzo e-mail dalla nostra lista di contatti.\n"
       }
     }
   },
@@ -185,7 +185,7 @@
         }
       },
       "props": {
-        "text": "Atenciosamente,"
+        "text": "Cordiali saluti,"
       }
     }
   },
@@ -202,7 +202,7 @@
         }
       },
       "props": {
-        "text": "Equipe do Arcana Pixel"
+        "text": "Il team di Arcana Pixel"
       }
     }
   }

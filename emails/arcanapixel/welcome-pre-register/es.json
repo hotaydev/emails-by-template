@@ -73,7 +73,7 @@
       },
       "props": {
         "markdown": false,
-        "text": "© 2025 Arcana Pixel, com muito ❤️, código livre e 🐈"
+        "text": "© 2025 Arcana Pixel, con mucho ❤️, código libre y 🐈"
       }
     }
   },
@@ -81,7 +81,7 @@
     "type": "Heading",
     "data": {
       "props": {
-        "text": "Boas vindas ao Arcana Pixel!",
+        "text": "¡Bienvenido a Arcana Pixel!",
         "level": "h1"
       },
       "style": {
@@ -109,7 +109,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Saudações, viajante!\n\nObrigado por se pré-registrar no [Arcana Pixel](https://www.arcanapixel.com/)! Estamos empolgados por ter você conosco nessa jornada 🎉\n\nPor este e-mail, manteremos você informado sobre o desenvolvimento da nossa plataforma, além de compartilhar novidades, informações importantes e promoções exclusivas.\n\nSe você não realizou o pré-registro ou acredita que este e-mail foi enviado por engano, pedimos desculpas pelo transtorno. Você pode [clicar aqui](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) para remover seu e-mail da nossa lista de contatos."
+        "text": "¡Saludos, viajero!\n\n¡Gracias por pre-registrarte en [Arcana Pixel](https://www.arcanapixel.com/)! Estamos emocionados de tenerte con nosotros en este viaje 🎉\n\nA través de este correo electrónico, te mantendremos informado sobre el desarrollo de nuestra plataforma, además de compartir novedades, información importante y promociones exclusivas.\n\nSi no realizaste el pre-registro o crees que este correo fue enviado por error, te pedimos disculpas por el inconveniente. Puedes [hacer clic aquí](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) para eliminar tu correo electrónico de nuestra lista de contactos.\n"
       }
     }
   },
@@ -185,7 +185,7 @@
         }
       },
       "props": {
-        "text": "Atenciosamente,"
+        "text": "Atentamente,"
       }
     }
   },
@@ -202,7 +202,7 @@
         }
       },
       "props": {
-        "text": "Equipe do Arcana Pixel"
+        "text": "El equipo de Arcana Pixel"
       }
     }
   }
