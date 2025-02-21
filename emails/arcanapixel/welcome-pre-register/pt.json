@@ -28,7 +28,7 @@
       "props": {
         "width": 150,
         "url": "https://www.arcanapixel.com/assets/static/arcana-logo-black.png",
-        "alt": "Arcana Pixel Logo",
+        "alt": "",
         "linkHref": "https://www.arcanapixel.com/",
         "contentAlignment": "middle"
       }
