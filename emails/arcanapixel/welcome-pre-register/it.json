@@ -109,7 +109,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Saluti, viaggiatore!\n\nGrazie per esserti pre-registrato su [Arcana Pixel](https://www.arcanapixel.com/)! Siamo entusiasti di averti con noi in questo viaggio 🎉\n\nAttraverso questa e-mail, ti terremo aggiornato sullo sviluppo della nostra piattaforma, oltre a condividere novità, informazioni importanti e promozioni esclusive.\n\nSe non ti sei pre-registrato o ritieni che questa e-mail sia stata inviata per errore, ci scusiamo per l'inconveniente. Puoi [cliccare qui](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) per rimuovere il tuo indirizzo e-mail dalla nostra lista di contatti.\n"
+        "text": "Saluti, viaggiatore!\n\nGrazie per esserti pre-registrato su [Arcana Pixel](https://www.arcanapixel.com/)! Siamo entusiasti di averti con noi in questo viaggio 🎉\n\nAttraverso questa e-mail, ti terremo informato sullo sviluppo della nostra piattaforma, oltre a condividere novità, informazioni importanti e promozioni esclusive.\n\nApprofittane e unisciti al nostro [server Discord](https://discord.gg/cvWUW2yMPM) e, se ti piace programmare, dai un'occhiata al nostro [progetto su GitHub](https://github.com/hotaydev/arcana-pixel).\n\nSe non desideri più ricevere le nostre e-mail, puoi [cliccare qui](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) per rimuovere il tuo nome dalla nostra lista di contatti.\n"
       }
     }
   },
@@ -125,24 +125,15 @@
         }
       },
       "props": {
-        "fixedWidths": [
-          null,
-          120,
-          null
-        ],
+        "fixedWidths": [null, 120, null],
         "columnsCount": 2,
         "columnsGap": 16,
         "columns": [
           {
-            "childrenIds": [
-              "block-1740163748626",
-              "block-1740163761763"
-            ]
+            "childrenIds": ["block-1740163748626", "block-1740163761763"]
           },
           {
-            "childrenIds": [
-              "block-1740163720652"
-            ]
+            "childrenIds": ["block-1740163720652"]
           },
           {
             "childrenIds": []

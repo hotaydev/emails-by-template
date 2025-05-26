@@ -81,7 +81,7 @@
     "type": "Heading",
     "data": {
       "props": {
-        "text": "Bienvenue sur Arcana Pixel !",
+        "text": "Bienvenue sur Arcana Pixel!",
         "level": "h1"
       },
       "style": {
@@ -109,7 +109,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Salutations, voyageur !\n\nMerci de vous être préinscrit sur [Arcana Pixel](https://www.arcanapixel.com/) ! Nous sommes ravis de vous avoir avec nous dans cette aventure 🎉\n\nGrâce à cet e-mail, nous vous tiendrons informé du développement de notre plateforme, ainsi que des nouveautés, des informations importantes et des promotions exclusives.\n\nSi vous ne vous êtes pas préinscrit ou si vous pensez que cet e-mail a été envoyé par erreur, nous nous excusons pour le désagrément. Vous pouvez [cliquer ici](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) pour supprimer votre e-mail de notre liste de contacts.\n"
+        "text": "Salutations, voyageur!\n\nMerci de vous être préinscrit sur [Arcana Pixel](https://www.arcanapixel.com/)! Nous sommes ravis de vous avoir avec nous dans cette aventure 🎉\n\nPar le biais de cet e-mail, nous vous tiendrons informé du développement de notre plateforme, ainsi que des actualités, des informations importantes et des promotions exclusives.\n\nN’hésitez pas à rejoindre notre [serveur Discord](https://discord.gg/cvWUW2yMPM) et, si vous aimez le code, jetez un œil à notre [projet sur GitHub](https://github.com/hotaydev/arcana-pixel).\n\nSi vous ne souhaitez plus recevoir nos e-mails, vous pouvez [cliquer ici](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) pour retirer votre nom de notre liste de contacts.\n"
       }
     }
   },
@@ -125,24 +125,15 @@
         }
       },
       "props": {
-        "fixedWidths": [
-          null,
-          120,
-          null
-        ],
+        "fixedWidths": [null, 120, null],
         "columnsCount": 2,
         "columnsGap": 16,
         "columns": [
           {
-            "childrenIds": [
-              "block-1740163748626",
-              "block-1740163761763"
-            ]
+            "childrenIds": ["block-1740163748626", "block-1740163761763"]
           },
           {
-            "childrenIds": [
-              "block-1740163720652"
-            ]
+            "childrenIds": ["block-1740163720652"]
           },
           {
             "childrenIds": []
