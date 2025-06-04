@@ -29,7 +29,7 @@
         "width": 150,
         "url": "https://www.arcanapixel.com/assets/static/arcana-logo-black.png",
         "alt": "",
-        "linkHref": "https://www.arcanapixel.com/",
+        "linkHref": "https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome-email",
         "contentAlignment": "middle"
       }
     }
@@ -109,7 +109,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Greetings, traveler!\n\nThank you for pre-registering at [Arcana Pixel](https://www.arcanapixel.com/)! We are thrilled to have you with us on this journey 🎉\n\nThrough this email, we will keep you informed about the development of our platform, as well as share news, important information, and exclusive promotions.\n\nIn the meantime, feel free to join our [Discord server](https://discord.gg/cvWUW2yMPM), and if you enjoy coding, check out our [project on GitHub](https://github.com/hotaydev/arcana-pixel).\n\nIf you no longer wish to receive our emails, you can [click here](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) to remove your name from our contact list.\n"
+        "text": "Greetings, traveler!\n\nThank you for pre-registering at [Arcana Pixel](https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome-email)! We are thrilled to have you with us on this journey 🎉\n\nThrough this email, we will keep you informed about the development of our platform, as well as share news, important information, and exclusive promotions.\n\nIn the meantime, feel free to join our [Discord server](https://discord.gg/cvWUW2yMPM), and if you enjoy coding, check out our [project on GitHub](https://github.com/hotaydev/arcana-pixel).\n\nIf you no longer wish to receive our emails, you can [click here](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) to remove your name from our contact list.\n"
       }
     }
   },

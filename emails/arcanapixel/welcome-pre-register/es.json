@@ -29,7 +29,7 @@
         "width": 150,
         "url": "https://www.arcanapixel.com/assets/static/arcana-logo-black.png",
         "alt": "",
-        "linkHref": "https://www.arcanapixel.com/",
+        "linkHref": "https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome-email",
         "contentAlignment": "middle"
       }
     }
@@ -109,7 +109,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "¡Saludos, viajero!\n\nGracias por pre-registrarte en [Arcana Pixel](https://www.arcanapixel.com/)! Estamos encantados de tenerte con nosotros en esta aventura 🎉\n\nA través de este correo electrónico, te mantendremos informado sobre el desarrollo de nuestra plataforma, además de compartir novedades, información importante y promociones exclusivas.\n\nMientras tanto, no dudes en unirte a nuestro [servidor de Discord](https://discord.gg/cvWUW2yMPM) y, si te gusta programar, échale un vistazo a nuestro [proyecto en GitHub](https://github.com/hotaydev/arcana-pixel).\n\nSi ya no deseas recibir nuestros correos electrónicos, puedes [hacer clic aquí](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) para eliminar tu nombre de nuestra lista de contactos.\n"
+        "text": "¡Saludos, viajero!\n\nGracias por pre-registrarte en [Arcana Pixel](https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome-email)! Estamos encantados de tenerte con nosotros en esta aventura 🎉\n\nA través de este correo electrónico, te mantendremos informado sobre el desarrollo de nuestra plataforma, además de compartir novedades, información importante y promociones exclusivas.\n\nMientras tanto, no dudes en unirte a nuestro [servidor de Discord](https://discord.gg/cvWUW2yMPM) y, si te gusta programar, échale un vistazo a nuestro [proyecto en GitHub](https://github.com/hotaydev/arcana-pixel).\n\nSi ya no deseas recibir nuestros correos electrónicos, puedes [hacer clic aquí](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) para eliminar tu nombre de nuestra lista de contactos.\n"
       }
     }
   },

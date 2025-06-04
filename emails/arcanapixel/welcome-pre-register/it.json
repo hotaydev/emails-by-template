@@ -29,7 +29,7 @@
         "width": 150,
         "url": "https://www.arcanapixel.com/assets/static/arcana-logo-black.png",
         "alt": "",
-        "linkHref": "https://www.arcanapixel.com/",
+        "linkHref": "https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome-email",
         "contentAlignment": "middle"
       }
     }
@@ -109,7 +109,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Saluti, viaggiatore!\n\nGrazie per esserti pre-registrato su [Arcana Pixel](https://www.arcanapixel.com/)! Siamo entusiasti di averti con noi in questo viaggio 🎉\n\nAttraverso questa e-mail, ti terremo informato sullo sviluppo della nostra piattaforma, oltre a condividere novità, informazioni importanti e promozioni esclusive.\n\nApprofittane e unisciti al nostro [server Discord](https://discord.gg/cvWUW2yMPM) e, se ti piace programmare, dai un'occhiata al nostro [progetto su GitHub](https://github.com/hotaydev/arcana-pixel).\n\nSe non desideri più ricevere le nostre e-mail, puoi [cliccare qui](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) per rimuovere il tuo nome dalla nostra lista di contatti.\n"
+        "text": "Saluti, viaggiatore!\n\nGrazie per esserti pre-registrato su [Arcana Pixel](https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome-email)! Siamo entusiasti di averti con noi in questo viaggio 🎉\n\nAttraverso questa e-mail, ti terremo informato sullo sviluppo della nostra piattaforma, oltre a condividere novità, informazioni importanti e promozioni esclusive.\n\nApprofittane e unisciti al nostro [server Discord](https://discord.gg/cvWUW2yMPM) e, se ti piace programmare, dai un'occhiata al nostro [progetto su GitHub](https://github.com/hotaydev/arcana-pixel).\n\nSe non desideri più ricevere le nostre e-mail, puoi [cliccare qui](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) per rimuovere il tuo nome dalla nostra lista di contatti.\n"
       }
     }
   },

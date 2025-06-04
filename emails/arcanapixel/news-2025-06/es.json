@@ -1,0 +1,560 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#FAFAFA",
+      "borderRadius": 0,
+      "canvasColor": "#FAFAFA",
+      "textColor": "#262626",
+      "fontFamily": "GEOMETRIC_SANS",
+      "childrenIds": [
+        "block-1740163434822",
+        "block-1740163482547",
+        "block-1740163507986"
+      ]
+    }
+  },
+  "block-1740163434822": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 150,
+        "url": "https://www.arcanapixel.com/assets/static/arcana-logo-black.png",
+        "alt": "",
+        "linkHref": "https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-06",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1740163482547": {
+    "type": "Container",
+    "data": {
+      "style": {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 20,
+        "padding": {
+          "top": 16,
+          "bottom": 20,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "childrenIds": [
+          "block-1740163641319",
+          "block-1749048318762",
+          "block-1749048417492",
+          "block-1749048470003",
+          "block-1749048489638",
+          "block-1749048548650",
+          "block-1749048605867",
+          "block-1749048699440",
+          "block-1749048839597",
+          "block-1749048874228",
+          "block-1749048972241",
+          "block-1749048991978",
+          "block-1749049190913",
+          "block-1749049511022",
+          "block-1749049474306",
+          "block-1749049659140",
+          "block-1749049726000",
+          "block-1749049719861",
+          "block-1749049768918",
+          "block-1740163650758",
+          "block-1740163711947"
+        ]
+      }
+    }
+  },
+  "block-1740163507986": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "color": null,
+        "fontSize": 14,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 20,
+          "bottom": 20,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": false,
+        "text": "© 2025 Arcana Pixel, con mucho ❤️, código libre y 🐈"
+      }
+    }
+  },
+  "block-1740163641319": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "¡Novedades Épicas de Junio!",
+        "level": "h1"
+      },
+      "style": {
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 12,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1740163650758": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 8,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¿Prefieres no recibir más nuestras actualizaciones? ¡Sin problema! [Haz clic aquí](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) para eliminar tu correo de nuestra lista."
+      }
+    }
+  },
+  "block-1740163711947": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 12,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "fixedWidths": [null, 120, null],
+        "columnsCount": 2,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": ["block-1740163748626", "block-1740163761763"]
+          },
+          {
+            "childrenIds": ["block-1740163720652"]
+          },
+          {
+            "childrenIds": []
+          }
+        ]
+      }
+    }
+  },
+  "block-1740163720652": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 40,
+        "url": "https://www.arcanapixel.com/assets/static/pixel-d20.png",
+        "alt": "",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1740163748626": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "text": "Atentamente,"
+      }
+    }
+  },
+  "block-1740163761763": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "text": "Equipo de Arcana Pixel"
+      }
+    }
+  },
+  "block-1749048318762": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¡Saludos, viajero!\n\n¡Junio ha llegado y tenemos novedades increíbles para compartir! 🎉 "
+      }
+    }
+  },
+  "block-1749048417492": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "🎮 Nuevo Discord de la Comunidad",
+        "level": "h3"
+      },
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      }
+    }
+  },
+  "block-1749048470003": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¡Acabamos de lanzar nuestro [servidor exclusivo en Discord](https://discord.gg/cvWUW2yMPM)! Únete a una comunidad de jugadores para intercambiar ideas sobre RPG, compartir tus mejores historias y descubrir todas las novedades en primicia."
+      }
+    }
+  },
+  "block-1749048489638": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "backgroundColor": null,
+        "textAlign": "center",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#9333EA",
+        "buttonStyle": "rounded",
+        "size": "medium",
+        "text": "Unirse a la Comunidad",
+        "url": "https://discord.gg/cvWUW2yMPM"
+      }
+    }
+  },
+  "block-1749048548650": {
+    "type": "Spacer",
+    "data": {
+      "props": {
+        "height": 24
+      }
+    }
+  },
+  "block-1749048605867": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "❓ ¿Por qué estamos creando un VTT revolucionario?",
+        "level": "h3"
+      },
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      }
+    }
+  },
+  "block-1749048699440": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¿Cansado de herramientas caras en dólares e interfaces complicadas? ¡Descubre nuestra misión para crear la mejor plataforma de RPG 100% brasileña! Nacimos de la frustración para construir la solución definitiva que todos los maestros y jugadores merecen."
+      }
+    }
+  },
+  "block-1749048839597": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "textAlign": "center",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#9333EA",
+        "text": "Descubrir Nuestra Misión",
+        "url": "https://www.arcanapixel.com/mission/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-06"
+      }
+    }
+  },
+  "block-1749048874228": {
+    "type": "Spacer",
+    "data": {
+      "props": {
+        "height": 24
+      }
+    }
+  },
+  "block-1749048972241": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Al final, ¿qué es realmente un VTT?",
+        "level": "h3"
+      },
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      }
+    }
+  },
+  "block-1749048991978": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¿Aún no lo conoces? ¡Descubre esta y otras respuestas esenciales en [nuestro blog](https://www.arcanapixel.com/blog/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-06)! ¡Estamos publicando contenido exclusivo cada semana para expandir tus horizontes en el mundo de los RPGs!"
+      }
+    }
+  },
+  "block-1749049190913": {
+    "type": "Container",
+    "data": {
+      "style": {
+        "backgroundColor": "#F5F5F5",
+        "borderRadius": 12,
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "childrenIds": ["block-1749049200232", "block-1749049327646"]
+      }
+    }
+  },
+  "block-1749049200232": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "#### [¿Qué es un VTT y por qué necesitas uno?](https://www.arcanapixel.com/blog/post/what-is-a-vtt/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-06)\nDescubre cómo un VTT puede transformar completamente tus sesiones de RPG y elevar la experiencia de juego a un nuevo nivel."
+      }
+    }
+  },
+  "block-1749049327646": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "textAlign": "right",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "[Seguir leyendo →](https://www.arcanapixel.com/blog/post/what-is-a-vtt/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-06)"
+      }
+    }
+  },
+  "block-1749049474306": {
+    "type": "Container",
+    "data": {
+      "style": {
+        "backgroundColor": "#F5F5F5",
+        "borderRadius": 12,
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "childrenIds": ["block-1749049480911", "block-1749049533263"]
+      }
+    }
+  },
+  "block-1749049480911": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "#### [La plataforma definitiva para Ordem Paranormal](https://www.arcanapixel.com/blog/post/ordem-paranormal/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-06)\nDescubre por qué Arcana Pixel es la elección perfecta para maestros y jugadores de Ordem Paranormal. Una solución completa, gratuita y de código abierto con herramientas avanzadas para gestionar Sanidad, Rituales, mapas dinámicos y crear atmósferas verdaderamente inmersivas para tus investigaciones paranormales."
+      }
+    }
+  },
+  "block-1749049511022": {
+    "type": "Spacer",
+    "data": {}
+  },
+  "block-1749049533263": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "textAlign": "right",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "[Seguir leyendo →](https://www.arcanapixel.com/blog/post/ordem-paranormal/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-06)"
+      }
+    }
+  },
+  "block-1749049659140": {
+    "type": "Spacer",
+    "data": {
+      "props": {
+        "height": 24
+      }
+    }
+  },
+  "block-1749049726000": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "🚀 ¡El lanzamiento se está acercando!",
+        "level": "h3"
+      },
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      }
+    }
+  },
+  "block-1749049719861": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Nuestra versión inaugural está en la recta final y **¡necesitamos tu ayuda para crecer!** Invita a tus amigos maestros y jugadores a registrarse en Arcana Pixel ahora mismo. ¡Cuanto mayor sea nuestra comunidad en el lanzamiento, más rica e inmersiva será la experiencia para todos los aventureiros!"
+      }
+    }
+  },
+  "block-1749049768918": {
+    "type": "Spacer",
+    "data": {}
+  }
+}

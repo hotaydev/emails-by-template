@@ -29,7 +29,7 @@
         "width": 150,
         "url": "https://www.arcanapixel.com/assets/static/arcana-logo-black.png",
         "alt": "",
-        "linkHref": "https://www.arcanapixel.com/",
+        "linkHref": "https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome-email",
         "contentAlignment": "middle"
       }
     }
@@ -109,7 +109,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Salutations, voyageur!\n\nMerci de vous être préinscrit sur [Arcana Pixel](https://www.arcanapixel.com/)! Nous sommes ravis de vous avoir avec nous dans cette aventure 🎉\n\nPar le biais de cet e-mail, nous vous tiendrons informé du développement de notre plateforme, ainsi que des actualités, des informations importantes et des promotions exclusives.\n\nN’hésitez pas à rejoindre notre [serveur Discord](https://discord.gg/cvWUW2yMPM) et, si vous aimez le code, jetez un œil à notre [projet sur GitHub](https://github.com/hotaydev/arcana-pixel).\n\nSi vous ne souhaitez plus recevoir nos e-mails, vous pouvez [cliquer ici](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) pour retirer votre nom de notre liste de contacts.\n"
+        "text": "Salutations, voyageur!\n\nMerci de vous être préinscrit sur [Arcana Pixel](https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=welcome-email)! Nous sommes ravis de vous avoir avec nous dans cette aventure 🎉\n\nPar le biais de cet e-mail, nous vous tiendrons informé du développement de notre plateforme, ainsi que des actualités, des informations importantes et des promotions exclusives.\n\nN’hésitez pas à rejoindre notre [serveur Discord](https://discord.gg/cvWUW2yMPM) et, si vous aimez le code, jetez un œil à notre [projet sur GitHub](https://github.com/hotaydev/arcana-pixel).\n\nSi vous ne souhaitez plus recevoir nos e-mails, vous pouvez [cliquer ici](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) pour retirer votre nom de notre liste de contacts.\n"
       }
     }
   },
