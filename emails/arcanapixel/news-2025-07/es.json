@@ -1,0 +1,397 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#FAFAFA",
+      "borderRadius": 0,
+      "canvasColor": "#FAFAFA",
+      "textColor": "#262626",
+      "fontFamily": "GEOMETRIC_SANS",
+      "childrenIds": [
+        "block-1740163434822",
+        "block-1740163482547",
+        "block-1740163507986"
+      ]
+    }
+  },
+  "block-1740163434822": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 150,
+        "url": "https://www.arcanapixel.com/assets/static/arcana-logo-black.png",
+        "alt": "",
+        "linkHref": "https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-07",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1740163482547": {
+    "type": "Container",
+    "data": {
+      "style": {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 20,
+        "padding": {
+          "top": 16,
+          "bottom": 20,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "childrenIds": [
+          "block-1740163641319",
+          "block-1749048318762",
+          "block-1749048417492",
+          "block-1749048470003",
+          "block-1749048489638",
+          "block-1749048548650",
+          "block-1749048605867",
+          "block-1749048699440",
+          "block-1752545596255",
+          "block-1749048874228",
+          "block-1749048972241",
+          "block-1749048991978",
+          "block-1749049768918",
+          "block-1740163650758",
+          "block-1740163711947"
+        ]
+      }
+    }
+  },
+  "block-1740163507986": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "color": null,
+        "fontSize": 14,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 20,
+          "bottom": 20,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": false,
+        "text": "© 2025 Arcana Pixel, con mucho ❤️, código libre y 🐈"
+      }
+    }
+  },
+  "block-1740163641319": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "¡Novedades de Julio!",
+        "level": "h1"
+      },
+      "style": {
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 12,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1740163650758": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 8,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¿Prefieres no recibir más nuestras actualizaciones? ¡Sin problema! [Haz clic aquí](https://n8n.hotay.dev/webhook/arcanapixel-unsubscribe?email=%unsubscribe-email%) para eliminar tu correo de nuestra lista."
+      }
+    }
+  },
+  "block-1740163711947": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 12,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "fixedWidths": [null, 120, null],
+        "columnsCount": 2,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": ["block-1740163748626", "block-1740163761763"]
+          },
+          {
+            "childrenIds": ["block-1740163720652"]
+          },
+          {
+            "childrenIds": []
+          }
+        ]
+      }
+    }
+  },
+  "block-1740163720652": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 40,
+        "url": "https://www.arcanapixel.com/assets/static/pixel-d20.png",
+        "alt": "",
+        "linkHref": "https://www.arcanapixel.com/",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1740163748626": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "text": "¡Que los dados rueden a tu favor! ✨"
+      }
+    }
+  },
+  "block-1740163761763": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "text": "Equipo de Arcana Pixel"
+      }
+    }
+  },
+  "block-1749048318762": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¡Saludos, viajero!\n\n¿Qué tal mantenerte al día con las novedades que están sucediendo? 😁"
+      }
+    }
+  },
+  "block-1749048417492": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "🗳️ Nueva página de votaciones de RPGs",
+        "level": "h3"
+      },
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      }
+    }
+  },
+  "block-1749048470003": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¡Ahora puedes influenciar directamente el futuro de la plataforma! Lanzamos una forma de sugerir nuevos RPGs y votar por aquellos que la comunidad quiere que se añadan lo antes posible. ¡Así priorizamos nuestro trabajo, garantizando que tus sistemas favoritos lleguen primero!"
+      }
+    }
+  },
+  "block-1749048489638": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "backgroundColor": null,
+        "textAlign": "center",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#9333EA",
+        "buttonStyle": "rounded",
+        "size": "medium",
+        "text": "Votar por los RPGs",
+        "url": "https://www.arcanapixel.com/rpgs/"
+      }
+    }
+  },
+  "block-1749048548650": {
+    "type": "Spacer",
+    "data": {
+      "props": {
+        "height": 24
+      }
+    }
+  },
+  "block-1749048605867": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "🎉 ¡Nuestra comunidad está creciendo!",
+        "level": "h3"
+      },
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      }
+    }
+  },
+  "block-1749048699440": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¡Estamos a punto de llegar a 700 seguidores en Instagram ([@arcanapixel](https://www.instagram.com/arcanapixel)) y 120 miembros en el [servidor de Discord](https://discord.gg/cvWUW2yMPM)! ¿Qué tal compartir estos canales con tu grupo de RPG y ayudar a hacer que nuestra comunidad crezca aún más?"
+      }
+    }
+  },
+  "block-1749048874228": {
+    "type": "Spacer",
+    "data": {
+      "props": {
+        "height": 24
+      }
+    }
+  },
+  "block-1749048972241": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "🎁 Recordatorio del regalo para el Beta",
+        "level": "h3"
+      },
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      }
+    }
+  },
+  "block-1749048991978": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "¡Queremos recordarte que todos los que estén en nuestro Beta van a recibir diversos beneficios en la plataforma después del lanzamiento, incluyendo un plan \"Aventurero\" de, como mínimo, 6 meses! Si quieres saber más sobre las diferencias de los planes, está todo detallado en [nuestro sitio web](https://www.arcanapixel.com/#pricing).\n\n¡Solo un poco más y el proyecto estará en el aire! ¡Ojos siempre abiertos!"
+      }
+    }
+  },
+  "block-1749049768918": {
+    "type": "Spacer",
+    "data": {}
+  },
+  "block-1752545596255": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "textAlign": "center",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#9333EA",
+        "text": "Nuestros Enlaces",
+        "url": "https://www.arcanapixel.com/links/"
+      }
+    }
+  }
+}
