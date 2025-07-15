@@ -171,7 +171,7 @@
         "width": 40,
         "url": "https://www.arcanapixel.com/assets/static/pixel-d20.png",
         "alt": "",
-        "linkHref": "https://www.arcanapixel.com/",
+        "linkHref": "https://www.arcanapixel.com/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-07",
         "contentAlignment": "middle"
       }
     }
@@ -281,7 +281,7 @@
         "buttonStyle": "rounded",
         "size": "medium",
         "text": "Votar nos RPGs",
-        "url": "https://www.arcanapixel.com/rpgs/"
+        "url": "https://www.arcanapixel.com/rpgs/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-07"
       }
     }
   },
@@ -367,7 +367,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Queremos lembrar que todos que estiverem no nosso Beta vão receber diversos benefícios na plataforma após o lançamento, incluindo um plano \"Aventureiro\" de, no mínimo, 6 meses! Se quiser saber mais sobre as diferenças dos planos, está tudo detalhado no [nosso site](https://www.arcanapixel.com/#pricing).\n\nSó mais um pouco e o projeto estará no ar! Olhos sempre abertos!"
+        "text": "Queremos lembrar que todos que estiverem no nosso Beta vão receber diversos benefícios na plataforma após o lançamento, incluindo um plano \"Aventureiro\" de, no mínimo, 6 meses! Se quiser saber mais sobre as diferenças dos planos, está tudo detalhado no [nosso site](https://www.arcanapixel.com/#pricing?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-07).\n\nSó mais um pouco e o projeto estará no ar! Olhos sempre abertos!"
       }
     }
   },
@@ -390,7 +390,7 @@
       "props": {
         "buttonBackgroundColor": "#9333EA",
         "text": "Nossos Links",
-        "url": "https://www.arcanapixel.com/links/"
+        "url": "https://www.arcanapixel.com/links/?utm_source=newsletter&utm_medium=email&utm_campaign=news-2025-07"
       }
     }
   }
